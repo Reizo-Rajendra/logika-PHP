@@ -6,6 +6,12 @@ Contoh kasus dalam program ini menggunakan tema dari dunia **Jujutsu Kaisen** un
 
 ---
 
+
+## Author
+
+Reizo Rajendra Dianta  
+X PPLG 1
+
 ## Fitur Pengkondisian
 
 Program ini menampilkan beberapa jenis pengkondisian yang umum digunakan dalam PHP:
