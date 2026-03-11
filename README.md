@@ -1,4 +1,4 @@
-# PHP Conditional Logic – Jujutsu Kaisen Theme
+# LOGIKA PHP – Jujutsu Kaisen Theme
 
 Project ini merupakan latihan dasar pemrograman **PHP** yang berfokus pada penggunaan berbagai jenis **pengkondisian** dalam program.
 
